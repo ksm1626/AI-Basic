@@ -2,12 +2,11 @@
 
 ## Reference
 - [naver boostcourse ai basic](https://www.boostcourse.org/ai100/joinLectures/218531)
-## Meeting:
+## Meeting
 - `offline study` thuesday
 <br />
 
 ## Progress
-
 ### ⛳️ week1
 #### 파이썬 기초
 
