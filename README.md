@@ -2,10 +2,8 @@
 
 ## Reference
 - [naver boostcourse ai basic](https://www.boostcourse.org/ai100/joinLectures/218531)
-- 
 ## Meeting:
 - `offline study` thuesday
-
 <br />
 
 ## Progress
